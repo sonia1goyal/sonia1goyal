@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonia1goyal
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Snowflake
+- 🌱 I’m working on Snowflake data warehouse
 - 💞️ I’m looking to collaborate on Data Engineering, Python, Databases
 - 📫 You can reach me on my email
 
